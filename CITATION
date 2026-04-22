@@ -1,0 +1,19 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: R Code
+message: manuscript spacewalk
+type: software
+authors:
+  - given-names: Lachlan
+    family-names: MacKenzie
+    email: lmackenzie@uow.edu.au
+identifiers:
+  - type: doi
+    value: 10.5072/zenodo.491803
+    description: sandbox
+abstract: Abstract
+license: MIT
+version: v1.0.1
+date-released: '2026-04-22'
